@@ -201,6 +201,7 @@ public class CharacterController2D : MonoBehaviour {
 		PlaySound(jumpSFX);
 	}
 
+
 	// do what needs to be done to freeze the player
  	void FreezeMotion() {
 		playerCanMove = false;
@@ -285,5 +286,10 @@ public class CharacterController2D : MonoBehaviour {
 		_transform.parent = null;
 		_transform.position = spawnloc;
 		_animator.SetTrigger("Respawn");
+	}
+
+	public void EnemyBounce()
+	{
+		DoJump();
 	}
 }
