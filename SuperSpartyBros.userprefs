@@ -1,11 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScreenshotUtility.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlatformMover.cs">
     <Files>
-      <File FileName="Assets\Scripts\CharacterController2D.cs" Line="72" Column="51" />
+      <File FileName="Assets\Scripts\CharacterController2D.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\MainMenuManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ScreenshotUtility.cs" Line="52" Column="16" />
+      <File FileName="Assets\Scripts\ScreenshotUtility.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatformMover.cs" Line="31" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

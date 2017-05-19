@@ -1,0 +1,76 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950 (ID=0x1402)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\yzhang\Unity Projects\SuperSpartyBros\Builds\SuperSpartyBrosWin_x86\SuperSpartyBrosWin_x86_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 5120x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.600221 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4388 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.739593 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 372.
+Total: 0.251188 ms (FindLiveObjects: 0.018606 ms CreateObjectMapping: 0.012511 ms MarkObjects: 0.215899 ms  DeleteObjects: 0.003849 ms)
+
+Player State reset.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614978 ms
+Failed IgnoreLayerCollision : layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 386)
+
+Failed IgnoreLayerCollision : layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 386)
+
+Failed IgnoreLayerCollision : layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 386)
+
+Failed IgnoreLayerCollision : layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 386)
+
+Failed IgnoreLayerCollision : layer numbers must be between 0 and 31
+ 
+(Filename:  Line: 386)
+
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1063.
+Total: 0.618506 ms (FindLiveObjects: 0.057423 ms CreateObjectMapping: 0.021172 ms MarkObjects: 0.265303 ms  DeleteObjects: 0.274286 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.282888 ms
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 0.929364 ms (FindLiveObjects: 0.016040 ms CreateObjectMapping: 0.025984 ms MarkObjects: 0.162646 ms  DeleteObjects: 0.724050 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.367318 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 373.
+Total: 0.608241 ms (FindLiveObjects: 0.019889 ms CreateObjectMapping: 0.025343 ms MarkObjects: 0.238997 ms  DeleteObjects: 0.323368 ms)
+
